@@ -1,6 +1,6 @@
 {
 
-public serviceData = [
+"serviceData" : [
   { 'releaseid': '1',
     'projectName': 'UBP',
     'workStream': 'Development',
@@ -26,7 +26,7 @@ public serviceData = [
   }
 ]
 
-public projectdata =[
+"projectdata" :[
 
   {'project1':'UBP'},{'project1':'Amdocs'},{'project1':'Barclays'},{'project1':'Landrover'},{'project1':'UBS'}
 ]
